@@ -1,0 +1,22 @@
+{
+  "name": "sample_dep",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "John Koste johnkoste5@gmail.com"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "http//github.com/johnkoste5",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
